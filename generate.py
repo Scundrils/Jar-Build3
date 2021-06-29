@@ -4,7 +4,7 @@ timestr = time.strftime("%Y-%m-%d - %H:%M:%S UTC")
 
 nameid = "Scundrils"
 
-repoid = "Jar-Build2"
+repoid = "Jar-Build3"
 
 yamlid = "build"
 
